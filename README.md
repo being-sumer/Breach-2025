@@ -85,7 +85,7 @@ The project was executed over **6 months**:
 |------------------------------------|------------------------------------|
 | ![Team Discussion](./assets/DSC_0062.JPG) | ![Keynote Session](./assets/ARD_1851.JPG) |
 | ![Speaking at Opening](./assets/ARD_6787.JPG) | ![Full Committee](./assets/IMG_9797.JPG) |
-| ![Qawwali Rock: Cultural Event](./assets/ARD_6738.JPG) |
+| ![Qawwali Rock: Cultural Event](./assets/IMG_6738.JPG) |
 
 ---
 
@@ -108,6 +108,7 @@ Economania 2025 was more than an event. It was:
 - A **proof of concept** that students can raise capital, build partnerships, and run professional-scale projects.  
 - A **movement** where innovation met impact.  
 - And above all — a reminder that **we don’t do mediocre things.**  
+
 
 
 
