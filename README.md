@@ -1,8 +1,9 @@
 # ECONOMANIA 2025 & BREACH 2025 🚀  
 ### Gujarat’s Largest Fintech Hackathon & PDEU’s Flagship TechnoEconomics Fest  
 
-![Economania Logo](./assets/Economania_Logo.jpg)
-![Breach 2025 Logo](./assets/Favicon.jpg)
+#![Economania Logo](./assets/Economania_Logo.jpg)
+<img src="https://github.com/being-sumer/Breach-2025/assets/Economania_Logo.jpg" width="48">
+#![Breach 2025 Logo](./assets/Favicon.jpg)
 
 ---
 
@@ -106,5 +107,6 @@ Economania 2025 was more than an event. It was:
 - A **proof of concept** that students can raise capital, build partnerships, and run professional-scale projects.  
 - A **movement** where innovation met impact.  
 - And above all — a reminder that **we don’t do mediocre things.**  
+
 
 
