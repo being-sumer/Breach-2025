@@ -81,10 +81,10 @@ The project was executed over **6 months**:
 
 ## 🖼️ Gallery  
 
-<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/IMG_9797.JPG" width="1000">
-<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/ARD_7921.JPG" width="500"> <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/IMG_9729.JPG" width="500"> <br>
-<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/DSC_0062.JPG" width="500"> <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/ARD_1851.JPG" width="500"> <br>
-<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/ARD_6901.JPG" width="500"> <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/IMG_6738.JPG" width="500"> <br>
+<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/IMG_9797.JPG" width="900">
+<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/ARD_7921.JPG" width="450"> <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/IMG_9729.JPG" width="450"> <br>
+<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/DSC_0062.JPG" width="450"> <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/ARD_1851.JPG" width="450"> <br>
+<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/ARD_6901.JPG" width="450"> <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/IMG_6738.JPG" width="450"> <br>
 
 ---
 
@@ -107,6 +107,7 @@ Economania 2025 was more than an event. It was:
 - A **proof of concept** that students can raise capital, build partnerships, and run professional-scale projects.  
 - A **movement** where innovation met impact.  
 - And above all — a reminder that **we don’t do mediocre things.**  
+
 
 
 
