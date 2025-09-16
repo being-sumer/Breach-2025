@@ -4,6 +4,7 @@
 ![Economania Logo](./assets/Economania_Logo.jpg)
 <img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/Economania_Logo.jpg" width="48">
 ![Breach 2025 Logo](./assets/Favicon.jpg)
+<img src="https://github.com/being-sumer/Breach-2025/blob/main/assets/Favicon.jpg" width="48">
 
 ---
 
@@ -107,6 +108,7 @@ Economania 2025 was more than an event. It was:
 - A **proof of concept** that students can raise capital, build partnerships, and run professional-scale projects.  
 - A **movement** where innovation met impact.  
 - And above all — a reminder that **we don’t do mediocre things.**  
+
 
 
 
